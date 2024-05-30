@@ -1,0 +1,2 @@
+# Snowflake-devops
+Learning purpose

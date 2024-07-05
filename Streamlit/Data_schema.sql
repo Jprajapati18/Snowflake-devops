@@ -1,1 +1,1 @@
-create or replace schema Streamli.data;
+create or replace schema Streamlit.data;
